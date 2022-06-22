@@ -1,0 +1,121 @@
+コマンド system_profiler SPHardwareDataType -detailLevel mini の出力
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro18,3
+      Processor Name: Unknown
+      Processor Speed: 2.4 GHz
+      Number of Processors: 1
+      Total Number of Cores: 8
+      L2 Cache: 16 MB
+      Memory: 16 GB
+
+コンパイルコマンド g++-11 -O2 sc1.cpp -o sc1
+
+seed=23571113 のとき
+
+59
+60
+49
+38
+27
+28
+39
+50
+49
+50
+61
+60
+61
+72
+73
+62
+51
+62
+63
+64
+65
+64
+75
+76
+65
+64
+53
+52
+51
+62
+51
+52
+41
+42
+43
+33
+22
+11
+21
+20
+21
+10
+9
+8
+118
+119
+9
+10
+21
+11
+12
+11
+12
+1
+2
+1
+111
+112
+111
+1
+2
+1
+12
+1
+0
+1
+12
+13
+24
+25
+24
+23
+22
+33
+34
+45
+34
+35
+36
+37
+36
+37
+36
+37
+38
+27
+26
+15
+14
+15
+4
+3
+2
+13
+12
+23
+34
+45
+56
+67
+# elapsed time (sec) = 0.000020 
+
+(1000回実行したときの合計時間 0.019814 sec)
